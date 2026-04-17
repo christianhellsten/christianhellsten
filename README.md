@@ -1,8 +1,4 @@
-# christianhellsten
-
-Token Factory
-
-## Token Factory
+# Token Factory
 
 - Coverage: 2026-01-14 -> 2026-04-17
 - Total cost: $7,984.14
