@@ -1,13 +1,39 @@
-# Token Factory
+```text
+╔════════════════════════════════════════════════════════════╗
+║            NASA MISSION CONTROL CONSOLE                    ║
+║            TOKEN FACTORY v1.0                              ║
+║            RESOURCE MONITORING SUBSYSTEM                   ║
+╚════════════════════════════════════════════════════════════╝
 
-- Coverage: 2026-01-14 -> 2026-04-17
-- Total cost: $7,984.14
-- Input tokens: 2.3M
-- Output tokens: 9.3M
-- Cache hit rate: 96.7%
+  FLIGHT STATUS REPORT
+  ──────────────────────────────────────────────────────────
+  COVERAGE WINDOW  : 2026-01-14 → 2026-04-17
+  TOTAL COST       : $7,994.48
 
-Averages:
-- Per day: $99.80
-- Per week: $570.30
-- Per month: $1,996.03
-- Per year: $7,984.14
+  TOKEN TELEMETRY
+  ──────────────────────────────────────────────────────────
+  INPUT STREAM     : 2.3M TOKENS
+  OUTPUT STREAM    : 9.4M TOKENS
+  CACHE EFFICIENCY : 96.7% HIT RATE
+
+  RESOURCE CONSUMPTION (AVG)
+  ──────────────────────────────────────────────────────────
+  PER DAY          : $99.93
+  PER WEEK         : $571.03
+  PER MONTH        : $1,998.62
+  PER YEAR         : $7,994.48
+
+  SYSTEM DIAGNOSTICS
+  ──────────────────────────────────────────────────────────
+  [OK] THROUGHPUT        : NOMINAL
+  [OK] RESOURCE USAGE    : WITHIN PARAMETERS
+  [OK] CACHE SUBSYSTEM   : OPTIMAL
+  [OK] ORBITAL STABILITY : MAINTAINED
+
+╔════════════════════════════════════════════════════════════╗
+║  MISSION CONTROL: ALL SYSTEMS NOMINAL                      ║
+║  AWAITING NEXT COMMAND...                                  ║
+╚════════════════════════════════════════════════════════════╝
+
+> _
+```
