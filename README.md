@@ -7,21 +7,21 @@
 
   FLIGHT STATUS REPORT
   ──────────────────────────────────────────────────────────
-  COVERAGE WINDOW  : 2026-04-23 → 2026-08-11
-  TOTAL COST       : $19,321.73
+  COVERAGE WINDOW  : 2026-04-23 → 2026-08-13
+  TOTAL COST       : $19,692.14
 
   TOKEN TELEMETRY
   ──────────────────────────────────────────────────────────
-  INPUT STREAM     : 5.0M TOKENS
-  OUTPUT STREAM    : 93.8M TOKENS
-  CACHE EFFICIENCY : 97.2% HIT RATE
+  INPUT STREAM     : 4.9M TOKENS
+  OUTPUT STREAM    : 93.4M TOKENS
+  CACHE EFFICIENCY : 97.3% HIT RATE
 
   RESOURCE CONSUMPTION (AVG)
   ──────────────────────────────────────────────────────────
-  PER DAY          : $496.69
-  PER WEEK         : $2,598.36
-  PER MONTH        : $6,440.58
-  PER YEAR         : $19,321.73
+  PER DAY          : $500.19
+  PER WEEK         : $2,644.66
+  PER MONTH        : $6,564.05
+  PER YEAR         : $19,692.14
 
   SYSTEM DIAGNOSTICS
   ──────────────────────────────────────────────────────────
